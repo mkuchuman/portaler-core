@@ -7834,9 +7834,9 @@ fecha@^4.2.0:
   resolved "https://registry.yarnpkg.com/fecha/-/fecha-4.2.0.tgz#3ffb6395453e3f3efff850404f0a59b6747f5f41"
   integrity sha512-aN3pcx/DSmtyoovUudctc8+6Hl4T+hI9GBBHLjA76jdZl7+b1sgh5g4k+u/GL3dTy1/pnYzKp69FpJ0OicE3Wg==
 
-fetchler@^0.0.20:
-  version "0.0.20"
-  resolved "https://registry.yarnpkg.com/fetchler/-/fetchler-0.0.20.tgz#574c3ad127d5c09aa5ff5b0ece5cb058fc62524f"
+fetchler@^0.0.21:
+  version "0.0.21"
+  resolved "https://registry.yarnpkg.com/fetchler/-/fetchler-0.0.21.tgz#574c3ad127d5c09aa5ff5b0ece5cb058fc62524f"
   integrity sha512-WJBEsun8b9ghhH9822MCLAKiIZWEZy507O+R3Vp0XtJC6bKAbk0jBlWi0zmnIm8AZSJSrD0vvv1C2bKAacrDVQ==
 
 figgy-pudding@^3.5.1:
